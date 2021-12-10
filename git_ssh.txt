@@ -1,0 +1,9 @@
+ssh-keygen
+
+enter
+enter
+enter
+
+cat c:/Users/wusin/.ssh/id_rsa.pub
+
+git push -u origin main
